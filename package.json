@@ -1,0 +1,24 @@
+{
+  "name": "stigeweard",
+  "version": "1.0.0",
+  "description": "Personal website",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Stigeweard/stigeweard.git"
+  },
+  "author": "Charles Harding",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Stigeweard/stigeweard/issues"
+  },
+  "homepage": "https://github.com/Stigeweard/stigeweard#readme",
+  "dependencies": {
+    "angular": "^1.6.1",
+    "express": "^4.14.0",
+    "ui-router": "^1.0.0-alpha.3"
+  }
+}
